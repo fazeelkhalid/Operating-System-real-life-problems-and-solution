@@ -128,6 +128,14 @@ int main(){
 		}
 		
 		
+		int outputFd = open(outputFile,O_WRONLY);
+		if(outputFd == -1){ //return 3 if output file not open 
+			return 3;
+		}
+		
+		//enter data in output file;
+		write(outputFd,localStr,arrSize(localStr));			
+		wait(NULL);
 	}
 	return 0;
 }
