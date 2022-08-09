@@ -31,4 +31,4 @@ c.	Now create a main.cpp file containing the main function which calls the funct
 Write a C++ which perform following tasks.<br>
 Create a parent and child process using the fork command where the child tells if the number is odd or not and parent process will write the number on screen.<br>
 
-
+<br>
