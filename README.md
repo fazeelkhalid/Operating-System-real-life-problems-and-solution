@@ -42,11 +42,6 @@ Create a parent and child process using the fork command where the child tells i
     Reverse a tuple (2 Marks)<br>
     Write a Python program to reverse a tuple.<br>
 
-<a href="Lab2/Q4.py">	<h3 align="center">Question 1.4:</h3></a>
-    Sort a Tuple (3 Marks)<br>
-    Sort a tuple of tuples by 2nd item.<br>
-    Given: tuple1 = (('a', 23),('b', 37),('c', 11), ('d',29))<br>
-    Expected: (('c', 11), ('a', 23), ('d', 29), ('b', 37))<br>
 
 
 
