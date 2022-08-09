@@ -48,15 +48,5 @@ Create a parent and child process using the fork command where the child tells i
     Given: tuple1 = (('a', 23),('b', 37),('c', 11), ('d',29))<br>
     Expected: (('c', 11), ('a', 23), ('d', 29), ('b', 37))<br>
 
-<a href="Lab2/Q5.py">	<h3 align="center">Question 1.5:</h3></a>
-    Create a Dictionary (5 Marks)<br>
-    Write a Python program to create a new dictionary by extracting the mentioned keys from the below dictionary.<br>
-    Sample Dictionary:<br>
-    sample_dict = {<br>
-        "name": "Kelly",<br>
-        "age": 25,<br>
-        "salary": 8000,<br>
-        "city": "New york"}<br>
-    # Keys to extract<br>
-    keys = ["name", "salary"]<br>
+
 
