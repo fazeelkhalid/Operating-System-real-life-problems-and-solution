@@ -38,10 +38,4 @@ Create a parent and child process using the fork command where the child tells i
     Write a Python program to convert a tuple to a dictionary. <br>
     Sample Output: {'w': 2, 'r': 3}<br>
 
-<a href="Lab2/Q3.py">	<h3 align="center">Question 1.3:</h3></a>
-    Reverse a tuple (2 Marks)<br>
-    Write a Python program to reverse a tuple.<br>
-
-
-
 
