@@ -27,12 +27,9 @@ b. Place the signature of the function in a header file named util.h, and place 
 c.	Now create a main.cpp file containing the main function which calls the function created previously. (For input file, create a random text file containing alphanumeric characters)<br>
 
 
-<a href="Lab1/Task%201%20solution.rar"><h3 align="center" >Task2:  </h3></a>
+<a href="Lab1/Task%202%20solution.cpp"><h3 align="center" >Task2:  </h3></a>
 Write a C++ which perform following tasks.<br>
 Create a parent and child process using the fork command where the child tells if the number is odd or not and parent process will write the number on screen.<br>
-
-
-
 
 
 
