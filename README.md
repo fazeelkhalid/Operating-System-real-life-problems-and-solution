@@ -32,10 +32,3 @@ Write a C++ which perform following tasks.<br>
 Create a parent and child process using the fork command where the child tells if the number is odd or not and parent process will write the number on screen.<br>
 
 
-
-<a href="Lab2/Q2.py"> <h3 align="center">Question 1.2:   </h3></a>
-    Convert a tuple to a Dictionary. (3 Marks)<br>
-    Write a Python program to convert a tuple to a dictionary. <br>
-    Sample Output: {'w': 2, 'r': 3}<br>
-
-
