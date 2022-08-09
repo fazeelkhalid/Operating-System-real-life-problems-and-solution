@@ -59,17 +59,4 @@ Create a parent and child process using the fork command where the child tells i
         "city": "New york"}<br>
     # Keys to extract<br>
     keys = ["name", "salary"]<br>
-    
-<a href="Lab2/Q6.py"><h3 align="center">Question 1.6:</h3></a>
-    Nested Dictionary (5 Marks)<br>
-    Write a Python program to change Brad’s salary to 8500 in the following dictionary.<br>
-    Given:<br>
-    sample_dict = {<br>
-        'emp1': {'name': 'Jhon', 'salary': 7500},<br>
-        'emp2': {'name': 'Emma', 'salary': 8000},<br>
-        'emp3': {'name': 'Brad', 'salary': 500}<br>
-    }<br>
 
-<br>
-<br>
-<br>
