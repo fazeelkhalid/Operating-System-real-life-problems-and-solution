@@ -37,4 +37,4 @@ Create a parent and child process using the fork command where the child tells i
 
 <a href="Lab2"><h1>LAB - 2</h1></a>
 
-<a href="Lab1/Task%201%20solution.rar"><h3 align="center" >Question 1:  </h3></a>
+<a href="Lab2/Lab2_Q1_solution.pdf"><h3 align="center" >Question 1:  </h3></a>
