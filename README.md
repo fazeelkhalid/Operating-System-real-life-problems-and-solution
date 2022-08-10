@@ -38,3 +38,6 @@ Create a parent and child process using the fork command where the child tells i
 <a href="Lab2"><h1>LAB - 2</h1></a>
 
 <a href="Lab2/Lab2_Q1_solution.pdf"><h3 align="center" >Question 1:  </h3></a>
+Write a C++ which performs following tasks.<br>
+Create a parent and child process using the fork command where the child process will calculate
+the first 15 numbers in Fibonacci series and parent process will write those numbers on screen
