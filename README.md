@@ -46,3 +46,5 @@ the first 15 numbers in Fibonacci series and parent process will write those num
 Create a program named stat that takes an integer array as command line argument (deliminated
 by some character such as $). The program then creates 3 child processes each of which does
 exactly one task from the following:
+
+ Adds them and print the result on the screen. (Done by child 1)  Shows average on the screen. (Done by child 2)  Prints the maximum number on the screen. (Done by child 3)
