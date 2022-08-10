@@ -43,3 +43,6 @@ Create a parent and child process using the fork command where the child process
 the first 15 numbers in Fibonacci series and parent process will write those numbers on screen<br>
 
 <a href="Lab2/Lab2_Q2_Solution.pdf"><h3 align="center" >Question 2:  </h3></a>
+Create a program named stat that takes an integer array as command line argument (deliminated
+by some character such as $). The program then creates 3 child processes each of which does
+exactly one task from the following:
