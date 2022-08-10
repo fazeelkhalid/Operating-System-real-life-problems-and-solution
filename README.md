@@ -35,5 +35,5 @@ Create a parent and child process using the fork command where the child tells i
 <br>
 <br>
 
-<a href="Lab1"><h1>LAB - 2</h1></a>
+<a href="Lab2"><h1>LAB - 2</h1></a>
 
