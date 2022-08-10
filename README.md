@@ -41,3 +41,5 @@ Create a parent and child process using the fork command where the child tells i
 Write a C++ which performs following tasks.<br>
 Create a parent and child process using the fork command where the child process will calculate<br>
 the first 15 numbers in Fibonacci series and parent process will write those numbers on screen<br>
+
+<a href="Lab2/Lab2_Q1_solution.pdf"><h3 align="center" >Question 2:  </h3></a>
