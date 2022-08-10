@@ -47,4 +47,6 @@ Create a program named stat that takes an integer array as command line argument
 by some character such as $). The program then creates 3 child processes each of which does
 exactly one task from the following:
 
- Adds them and print the result on the screen. (Done by child 1)  Shows average on the screen. (Done by child 2)  Prints the maximum number on the screen. (Done by child 3)
+1. Adds them and print the result on the screen. (Done by child 1) 
+2. Shows average on the screen. (Done by child 2) 
+3. Prints the maximum number on the screen. (Done by child 3)
